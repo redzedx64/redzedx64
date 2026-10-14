@@ -1,4 +1,4 @@
-<h1 align="center">Hey there, I'm RedZed 👋</h1>
+<h1 align="center">Hey there, I'm RedZedKing 👋</h1>
 
 <p align="center">
   <em>Reverse Engineer · Cheat Developer · Low-Level Enthusiast</em>
@@ -13,17 +13,16 @@
 ## 🧠 About Me
 
 ```yaml
-name:        RedZed
-role:        Developer & Reverse Engineer
+name:        RedZedKing
+role:        Developer & Software Engineer
 focus:       APIs • Networking • Android • Game Cheats
 editor:      Visual Studio Code
-re_tool:     IDA Pro
-mindset:     "If it runs, it can be reversed."
+mindset:     "don\'t stop , keep going ."
+age:         19
 ```
 
 - 🔧 I build tools around **APIs**, **HTTP requests**, and raw **TCP/UDP** sockets
 - 📱 I work with **Android APKs** — unpacking, patching, and analyzing
-- 🎮 I'm a **cheat development expert** and I know my way around a disassembler
 - 🧩 Comfortable across multiple languages and runtimes
 - ⚡ Always experimenting with low-level stuff and network protocols
 
@@ -52,7 +51,6 @@ mindset:     "If it runs, it can be reversed."
 | Area                      | What I Do                                                        |
 | ------------------------- | ---------------------------------------------------------------- |
 | 🕹️ **Game Cheats**        | Memory analysis, hooking, bypasses, custom tooling               |
-| 🧪 **Reverse Engineering** | Static & dynamic analysis with **IDA**, patching native binaries |
 | 📡 **Networking**         | TCP/UDP clients & servers, protocol analysis, packet crafting    |
 | 🌐 **APIs & HTTP**        | Automation, scraping, request forging, API wrappers              |
 | 🤖 **Android**            | APK reversing, Smali edits, repackaging, native lib analysis     |
@@ -62,12 +60,12 @@ mindset:     "If it runs, it can be reversed."
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=redzedking&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=redzedking&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=redzedx64&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=redzedx64&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=redzedking&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=redzedx64&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -92,7 +90,7 @@ mindset:     "If it runs, it can be reversed."
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=redzedking&style=for-the-badge&color=E63946" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=redzedx64&style=for-the-badge&color=E63946" alt="Profile views"/>
 </p>
 
 <p align="center">
