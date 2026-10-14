@@ -17,7 +17,7 @@ name:        RedZedKing
 role:        Developer & Software Engineer
 focus:       APIs • Networking • Android • Game Cheats
 editor:      Visual Studio Code
-mindset:     "don\'t stop , keep going ."
+mindset:     "don't stop , keep going ."
 age:         19
 ```
 
@@ -89,9 +89,6 @@ age:         19
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=redzedx64&style=for-the-badge&color=E63946" alt="Profile views"/>
-</p>
 
 <p align="center">
   <sub>⭐ <em>"Code it, break it, understand it."</em> ⭐</sub>
